@@ -13,3 +13,6 @@ The following instructions are what I have learned so far...
 8. Push all commits to remote and set a tracking branch using git push -u origin <branchname>. Enter username and password, if prompted.
 9. Create a pull request on GitHub.
 10. Merge any pull requests
+11. Update local repo using git pull
+12. Check status using git status
+13. Check history using git log
